@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DrawerLayout"><attr format="reference" name="handlerId"/></declare-styleable>
+    <declare-styleable name="IndexBar"><attr format="color" name="textColor"/><attr format="float" name="textAlpha"/><attr format="color" name="textHoverColor"/><attr format="color" name="backgroundColor"/><attr format="color" name="backgroundHoverColor"/></declare-styleable>
+    <declare-styleable name="InfoBar"><attr name="infoType"><enum name="information" value="0"/><enum name="warning" value="1"/><enum name="error" value="2"/></attr></declare-styleable>
+    <declare-styleable name="PhotoView"><attr format="boolean" name="circleEnable"/><attr format="color" name="circleColor"/><attr format="float" name="circleAlpha"/></declare-styleable>
+    <!-- From: file:/Users/zxui/AndroidstudioProjects/Library/cube7API/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Cube7API</string>
+    <!-- From: file:/Users/zxui/AndroidstudioProjects/Library/cube7API/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

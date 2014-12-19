@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/angelsLibrary" />
+            <option value="$PROJECT_DIR$/angelsMedia" />
+            <option value="$PROJECT_DIR$/angelsPreference" />
+            <option value="$PROJECT_DIR$/angelsSmart" />
+            <option value="$PROJECT_DIR$/angelsWidget" />
+            <option value="$PROJECT_DIR$/cube7API" />
+            <option value="$PROJECT_DIR$/emojiInputLibrary" />
+            <option value="$PROJECT_DIR$/fastjsonLibrary" />
+            <option value="$PROJECT_DIR$/memorizingTrustManager" />
+            <option value="$PROJECT_DIR$/slidingMenuLibrary" />
+            <option value="$PROJECT_DIR$/tibetanTextLibrary" />
+            <option value="$PROJECT_DIR$/viewPagerIndicator" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
+

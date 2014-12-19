@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Library.iml" filepath="$PROJECT_DIR$/Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/angelsLibrary/angelsLibrary.iml" filepath="$PROJECT_DIR$/angelsLibrary/angelsLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/angelsMedia/angelsMedia.iml" filepath="$PROJECT_DIR$/angelsMedia/angelsMedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/angelsPreference/angelsPreference.iml" filepath="$PROJECT_DIR$/angelsPreference/angelsPreference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/angelsSmart/angelsSmart.iml" filepath="$PROJECT_DIR$/angelsSmart/angelsSmart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/angelsWidget/angelsWidget.iml" filepath="$PROJECT_DIR$/angelsWidget/angelsWidget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cube7API/cube7API.iml" filepath="$PROJECT_DIR$/cube7API/cube7API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emojiInputLibrary/emojiInputLibrary.iml" filepath="$PROJECT_DIR$/emojiInputLibrary/emojiInputLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fastjsonLibrary/fastjsonLibrary.iml" filepath="$PROJECT_DIR$/fastjsonLibrary/fastjsonLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memorizingTrustManager/memorizingTrustManager.iml" filepath="$PROJECT_DIR$/memorizingTrustManager/memorizingTrustManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingMenuLibrary/slidingMenuLibrary.iml" filepath="$PROJECT_DIR$/slidingMenuLibrary/slidingMenuLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tibetanTextLibrary/tibetanTextLibrary.iml" filepath="$PROJECT_DIR$/tibetanTextLibrary/tibetanTextLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewPagerIndicator/viewPagerIndicator.iml" filepath="$PROJECT_DIR$/viewPagerIndicator/viewPagerIndicator.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,38 @@
+int attr backgroundColor 0x7f010004
+int attr backgroundHoverColor 0x7f010005
+int attr circleAlpha 0x7f010009
+int attr circleColor 0x7f010008
+int attr circleEnable 0x7f010007
+int attr handlerId 0x7f010000
+int attr infoType 0x7f010006
+int attr textAlpha 0x7f010002
+int attr textColor 0x7f010001
+int attr textHoverColor 0x7f010003
+int drawable ic_friend_gray 0x7f020000
+int drawable ic_launcher 0x7f020001
+int drawable vpi__tab_indicator 0x7f020002
+int drawable vpi__tab_selected_focused_holo 0x7f020003
+int drawable vpi__tab_selected_holo 0x7f020004
+int drawable vpi__tab_selected_pressed_holo 0x7f020005
+int drawable vpi__tab_unselected_focused_holo 0x7f020006
+int drawable vpi__tab_unselected_holo 0x7f020007
+int drawable vpi__tab_unselected_pressed_holo 0x7f020008
+int id error 0x7f050000
+int id information 0x7f050001
+int id warning 0x7f050002
+int layout photo_test 0x7f030000
+int string app_name 0x7f040000
+int[] styleable DrawerLayout { 0x7f010000 }
+int styleable DrawerLayout_handlerId 0
+int[] styleable IndexBar { 0x7f010001, 0x7f010002, 0x7f010003, 0x7f010004, 0x7f010005 }
+int styleable IndexBar_backgroundColor 3
+int styleable IndexBar_backgroundHoverColor 4
+int styleable IndexBar_textAlpha 1
+int styleable IndexBar_textColor 0
+int styleable IndexBar_textHoverColor 2
+int[] styleable InfoBar { 0x7f010006 }
+int styleable InfoBar_infoType 0
+int[] styleable PhotoView { 0x7f010007, 0x7f010008, 0x7f010009 }
+int styleable PhotoView_circleAlpha 2
+int styleable PhotoView_circleColor 1
+int styleable PhotoView_circleEnable 0
