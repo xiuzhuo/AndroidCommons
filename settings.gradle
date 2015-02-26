@@ -1,4 +1,4 @@
-include ':angelsLibrary', ':emojiInputLibrary', ':fastjsonLibrary', ':angelsPreference', ':angelsWidget', ':angelsSmart'
+include ':angelsLibrary', ':emojiInputLibrary', ':fastjsonLibrary', ':angelsPreference', ':angelsWidget', ':angelsSmart', 'angelsTheme'
 include ':cube7API'
 include ':tibetanTextLibrary'
 include ':memorizingTrustManager'
@@ -6,3 +6,4 @@ include ':viewPagerIndicator'
 include ':slidingMenuLibrary'
 
 include ':angelsMedia'
+include ':angelsConnection'

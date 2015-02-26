@@ -3,10 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Library.iml" filepath="$PROJECT_DIR$/Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/angelsConnection/angelsConnection.iml" filepath="$PROJECT_DIR$/angelsConnection/angelsConnection.iml" />
       <module fileurl="file://$PROJECT_DIR$/angelsLibrary/angelsLibrary.iml" filepath="$PROJECT_DIR$/angelsLibrary/angelsLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/angelsMedia/angelsMedia.iml" filepath="$PROJECT_DIR$/angelsMedia/angelsMedia.iml" />
       <module fileurl="file://$PROJECT_DIR$/angelsPreference/angelsPreference.iml" filepath="$PROJECT_DIR$/angelsPreference/angelsPreference.iml" />
       <module fileurl="file://$PROJECT_DIR$/angelsSmart/angelsSmart.iml" filepath="$PROJECT_DIR$/angelsSmart/angelsSmart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/angelsTheme/angelsTheme.iml" filepath="$PROJECT_DIR$/angelsTheme/angelsTheme.iml" />
       <module fileurl="file://$PROJECT_DIR$/angelsWidget/angelsWidget.iml" filepath="$PROJECT_DIR$/angelsWidget/angelsWidget.iml" />
       <module fileurl="file://$PROJECT_DIR$/cube7API/cube7API.iml" filepath="$PROJECT_DIR$/cube7API/cube7API.iml" />
       <module fileurl="file://$PROJECT_DIR$/emojiInputLibrary/emojiInputLibrary.iml" filepath="$PROJECT_DIR$/emojiInputLibrary/emojiInputLibrary.iml" />

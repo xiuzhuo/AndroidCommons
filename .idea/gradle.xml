@@ -9,10 +9,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/angelsConnection" />
             <option value="$PROJECT_DIR$/angelsLibrary" />
             <option value="$PROJECT_DIR$/angelsMedia" />
             <option value="$PROJECT_DIR$/angelsPreference" />
             <option value="$PROJECT_DIR$/angelsSmart" />
+            <option value="$PROJECT_DIR$/angelsTheme" />
             <option value="$PROJECT_DIR$/angelsWidget" />
             <option value="$PROJECT_DIR$/cube7API" />
             <option value="$PROJECT_DIR$/emojiInputLibrary" />
