@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/angelsConnection/angelsConnection.iml" filepath="$PROJECT_DIR$/angelsConnection/angelsConnection.iml" />
       <module fileurl="file://$PROJECT_DIR$/angelsLibrary/angelsLibrary.iml" filepath="$PROJECT_DIR$/angelsLibrary/angelsLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/angelsMedia/angelsMedia.iml" filepath="$PROJECT_DIR$/angelsMedia/angelsMedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/angelsPicker/angelsPicker.iml" filepath="$PROJECT_DIR$/angelsPicker/angelsPicker.iml" />
       <module fileurl="file://$PROJECT_DIR$/angelsPreference/angelsPreference.iml" filepath="$PROJECT_DIR$/angelsPreference/angelsPreference.iml" />
       <module fileurl="file://$PROJECT_DIR$/angelsSmart/angelsSmart.iml" filepath="$PROJECT_DIR$/angelsSmart/angelsSmart.iml" />
       <module fileurl="file://$PROJECT_DIR$/angelsTheme/angelsTheme.iml" filepath="$PROJECT_DIR$/angelsTheme/angelsTheme.iml" />
